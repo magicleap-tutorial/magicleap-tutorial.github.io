@@ -1,1 +1,1 @@
-# magicleap-tutorial.github.io
+# Magic Leap ICCV Tutorial
